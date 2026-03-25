@@ -1,52 +1,84 @@
 <div align="center">
 
-# 🐧 Hello, I'm PyNix
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=PyNix&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Void&descSize=20&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Software+Engineer;Linux+Enthusiast;Content+Creator;Robotics+Developer" alt="Typing SVG" />
-
----
-
-### 🛠️ The Tech Stack
-
-| Category | Tools & Languages |
-| :---: | :---: |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Environments** | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-33ccff?style=for-the-badge&logo=hyprland&logoColor=white) |
-| **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=sudo+emerge+--ask+world;Hyprland+Customization+Expert;100+Days+of+Code+in+Progress;Robotics+%26+Embedded+Systems;Linux+Ricing+Enthusiast" alt="Typing SVG" />
 
 ---
 
-### 🚀 Current Ventures
-**100 Days of Code:** Documenting daily progress and deep dives into algorithms.
-<br>
-**System Ricing:** Tweaking Wayland/Hyprland setups for the ultimate workflow.
-<br>
-**Robotics & IoT:** Experimenting with embedded systems and automation.
-<br>
-**Content Creation:** Crafting tutorials for the community.
+### 🖥️ [PyNix@Mainframe]
+<table align="center">
+<tr>
+<td align="left">
+<pre>
+      _nnnn_
+     dGGGGMMb
+    @p~qp~~qMb
+    M|@||@| M|
+    @,----.JM|
+   JS^\__/  qKL
+  dZP        qKRb
+ dZP          qKKb
+fZP            SMMb
+HZM            MMMM
+FqM            MMMM
+ \bmqp.____.asP
+  `""HLH""`
+ </pre>
+</td>
+<td align="left">
+<b>OS:</b> Gentoo / Arch Linux<br/>
+<b>WM:</b> Hyprland (Wayland)<br/>
+<b>Shell:</b> Zsh / Bash<br/>
+<b>Theme:</b> Catppuccin Mocha<br/>
+<b>Dotfiles:</b> illogical impulse (end-4)<br/>
+<b>Status:</b> Developing...
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=PyNix-Pro&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="PyNix's GitHub stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PyNix-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 🛠️ Core Arsenal
+
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,arduino,raspberrypi,linux,arch,gentoo,git,bash,svg" />
 
 ---
 
-### 🌐 Beyond the Terminal
-**Gaming:** Exploring survival seeds and high-performance sandbox environments.
-<br>
-**UI/UX Design:** Studying the intersection of aesthetics and functionality.
-<br>
-**Learning:** Currently diving into **Rust** for systems and **Shader programming** for visuals.
+### 🚀 Mission Control
+
+| **Project** | **Status** | **Focus** |
+| :--- | :---: | :--- |
+| **100 Days of Code** | `[▓▓▓░░░░░░░]` | Python & System Logic |
+| **PyNix-Pro Migration** | `[▓▓▓▓▓▓▓▓▓░]` | SSH / Git Flow |
+| **Robot Controller** | `[▓▓░░░░░░░░]` | Arduino / C++ |
+| **YouTube Content** | `[▓▓▓▓░░░░░░]` | Coding & Linux Showcases |
 
 ---
 
-### 📫 Connect with Me
-<a href="https://youtube.com/@PyNix" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="PyNix YouTube" /></a>
-<a href="https://instagram.com/pynix_pro" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="PyNix Instagram" /></a>
-<a href="https://github.com/PyNix-Pro" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PyNix GitHub" /></a>
+### 📊 System Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PyNix-Pro&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyNix-Pro&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Langs" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PyNix-Pro&theme=catppuccin_mocha&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA" alt="Streak" />
+
+---
+
+### 📫 Establish Connection
+<p align="center">
+<a href="https://youtube.com/@PyNix"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://instagram.com/pynix_pro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/PyNix-Pro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
 
 </div>
