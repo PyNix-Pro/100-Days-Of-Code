@@ -46,7 +46,7 @@
 
 ### 📫 Connect with Me
 <a href="https://youtube.com/@PyNix" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="PyNix YouTube" /></a>
-<a href="https://instagram.com/YOUR_INSTA_HANDLE" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="PyNix Instagram" /></a>
+<a href="https://instagram.com/pynix_pro" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="PyNix Instagram" /></a>
 <a href="https://github.com/PyNix-Pro" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PyNix GitHub" /></a>
 
 </div>
