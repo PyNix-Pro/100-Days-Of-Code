@@ -1,87 +1,49 @@
-# My Programming and Hardware Projects
-Hi there guys, these are my 100-day projects. Feel free to modify them after cloning them. If you find any mistakes in my code, please share them with me or Pull a request.
-I just wanted to give my projects to anyone who needed them.
-You can clone this 100-Days-Of-Code folder or zip-download it on Linux, Mac, and Windows.
-But if you need to install git here are some methods below for different distributions.
-### Windows
-Go to this website.
-##
-    https://git-scm.com/downloads
-And select download for Windows.
-Your download should start automatically.
-After it has finished donwloading click on the .exe file and then the installer will popup then follow along the script and you can install it.
+# 🐧 Hello, I'm PyNix
 
-### Mac
-As usual go to this website.
-##
-    https://git-scm.com/downloads
-And select download for Mac.
-It will take you to another page from there follow along the instructions and you will have Git installed on your Mac.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Software+Engineer;Linux+Enthusiast;Content+Creator;Robotics+Developer" alt="Typing SVG" />
+</p>
 
-### Linux
+---
 
-#### Debian and Debian-based distributions
-## 
-    sudo apt-get install git
-#### For Ubuntu this PPA provides the latest Git upstream version
-##
-    sudo add-apt-repository ppa:git-core/ppa
-    sudo apt update; apt install git
+### 🛠️ The Tech Stack
 
-#### Fedora 21
-##
-    yum install git
-#### Fedora 22 and later
-##
-    dnf install git 
-#### Gentoo
-##
-    emerge --ask --verbose dev-vcs/git
-#### Arch Linux and Arch-based distributions
-##
-    sudo pacman -S git
-#### openSUSE
-##
-    zypper install git
-#### Mageia
-##
-    urpmi git
-#### Nix/NixOS
-##
-    nix-env -i git
-#### FreeBSD
-##
-    pkg install git
-#### Solaris 9/10/11 (OpenCSW)
-##
-    pkgutil -i git
-#### Solaris 11 Express, OpenIndiana
-##
-    pkg install developer/versioning/git
-#### OpenBSD
-##
-    pkg_add git
-#### Alpine
-##
-    apk add git
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Environments** | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-33ccff?style=for-the-badge&logo=hyprland&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
-# The Git clone method
-The git clone method works on any system including Linux. Just type the command given below and you have cloned it.
-But my recommendation is that you should update your git and make sure it is installed and that it is working fine and perfectly then only you should clone it.
-##
-    git clone https://github.com/Arcron-ArchLinux/100-Days-Of-Code.git
-After you have done cloning it type the command given below.
-##
-    cd 100-Days-Of-Code
-Then you can customize it according to your wish.
-# The Zip file method
-The zip file method also works in any operating system including Linux, Mac, and Windows.
-Just click on the code button and you should see a option called zip download.
-After that, you should see a download bar on your browser or app.
-When it is downloaded run the commands below
-##
-    unzip 100-Days-Of-Code.zip
-##
-    cd 100-Days-Of-Code
-## And that's it you are all ready to go!<br>
-## And also please star my repo!
+---
+
+### 🚀 Current Ventures
+* **100 Days of Code:** Documenting my daily progress and deep dives into complex algorithms.
+* **System Ricing:** Constantly tweaking my Wayland/Hyprland setups for the ultimate workflow.
+* **Robotics & IoT:** Experimenting with embedded systems and automation scripts.
+* **Content Creation:** Crafting tutorials and showcases for the PyNix community.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PyNix-Pro&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="PyNix's GitHub stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PyNix-Pro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Beyond the Terminal
+When I'm not debugging or optimizing kernels, you'll find me:
+* **Gaming:** Exploring high-performance survival seeds or sandbox environments.
+* **UI/UX Design:** Studying the intersection of aesthetics and functionality in desktop environments.
+* **Learning:** Currently diving into **Rust** for systems programming and **Shader programming** for visual effects.
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://youtube.com/@PyNix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PyNix" height="30" width="40" /></a>
+<a href="https://github.com/PyNix-Pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PyNix-Pro" height="30" width="40" /></a>
+</p>
