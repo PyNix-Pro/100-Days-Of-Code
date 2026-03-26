@@ -11,7 +11,6 @@ The journey explores the full spectrum of Python's capabilities:
 
 * **Core Logic:** Advanced Python scripting and algorithmic optimization.
 * **Web Architectures:**
-    * **Django:** High-level batteries-included development.
     * **Flask:** Lightweight, modular micro-framework implementation.
     * **Jinja2:** Complex server-side templating and logic injection.
 * **GUI & Interfaces:**
@@ -37,7 +36,7 @@ To mirror this environment and execute the protocols locally:
 ---
 
 ### 🔮 The Vision
-The code within this vault is open-source. Whether you are looking for a specific **Flask** implementation, a **Django** boilerplate, or a **Tkinter** widget layout, feel free to fork, optimize, and deploy.
+The code within this vault is open-source. Whether you are looking for a specific **Flask** implementation, or a **Tkinter** widget layout, feel free to fork, optimize, and deploy.
 
 > "Code is the poetry of logical thought."
 
@@ -47,10 +46,10 @@ The code within this vault is open-source. Whether you are looking for a specifi
 
 | Day | Milestone | Technology | Status |
 | :--- | :--- | :--- | :--- |
-| 001 | **Initial Commit** | Python | ✅ |
-| 025 | **Desktop Interface** | Tkinter | 🔄 |
-| 050 | **API Development** | Flask | 🛰️ |
-| 100 | **Full-Stack Mastery** | Django | 🌌 |
+| 001 | **Initial Commit**    | Python       | ✅ |
+| 50  | **Desktop Interface** | Tkinter      | 🔄 |
+| 100 | **API Development**   | Flask        | 🛰️ |
+| 101 | **AND TO BEYOND**     | Future Plans | 🔮 |
 
 **System Status:** `OPTIMIZING...`
 **Current Streak:** `100% Functional`
