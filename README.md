@@ -25,7 +25,7 @@ To mirror this environment and execute the protocols locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/PyNix-Pro/100-Days-Of-Code.git](https://github.com/PyNix-Pro/100-Days-Of-Code.git)
+    git clone https://github.com/PyNix-Pro/100-Days-Of-Code.git
     ```
 2.  **Initialize Virtual Environment:**
     ```bash
