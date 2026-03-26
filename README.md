@@ -1,21 +1,56 @@
-# 💫 About Me:
-🐧 13yo Gentoo Ricer | Hyprland Enthusiast | 100 Days of Code 🚀 | When offline: Detective Novels & Harry Potter ⚡ | @PyNix-Pro
+# 🚀 100-Days-Of-Code: The PyNix Protocol
 
+Welcome to the **100-Days-Of-Code** repository. This isn't just a streak; it’s a systematic deep-dive into the architectural layers of Python, ranging from local GUI frameworks to scaled web ecosystems.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5uWhAnDWzP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pynix_pro) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCODHCH8eNTyOggW5EdHuDyg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rameenfar2013@gmail.com) 
+This repository serves as a public ledger of progress, documenting the evolution of logic, syntax, and system integration over a continuous 100-day cycle.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PyNix-Pro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PyNix-Pro&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PyNix-Pro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PyNix-Pro&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+### ⚡ Technical Stack
+The journey explores the full spectrum of Python's capabilities:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+* **Core Logic:** Advanced Python scripting and algorithmic optimization.
+* **Web Architectures:**
+    * **Django:** High-level batteries-included development.
+    * **Flask:** Lightweight, modular micro-framework implementation.
+    * **Jinja2:** Complex server-side templating and logic injection.
+* **GUI & Interfaces:**
+    * **Tkinter:** Native desktop application engineering.
+* **Environment:** Engineered for high-performance Unix-based workflows.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Deployment
+
+To mirror this environment and execute the protocols locally:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/PyNix-Pro/100-Days-Of-Code.git](https://github.com/PyNix-Pro/100-Days-Of-Code.git)
+    ```
+2.  **Initialize Virtual Environment:**
+    ```bash
+    python -m venv env
+    source env/bin/activate
+    ```
+
+---
+
+### 🔮 The Vision
+The code within this vault is open-source. Whether you are looking for a specific **Flask** implementation, a **Django** boilerplate, or a **Tkinter** widget layout, feel free to fork, optimize, and deploy.
+
+> "Code is the poetry of logical thought."
+
+---
+
+### 📊 Progress Tracker
+
+| Day | Milestone | Technology | Status |
+| :--- | :--- | :--- | :--- |
+| 001 | **Initial Commit** | Python | ✅ |
+| 025 | **Desktop Interface** | Tkinter | 🔄 |
+| 050 | **API Development** | Flask | 🛰️ |
+| 100 | **Full-Stack Mastery** | Django | 🌌 |
+
+**System Status:** `OPTIMIZING...`
+**Current Streak:** `100% Functional`
