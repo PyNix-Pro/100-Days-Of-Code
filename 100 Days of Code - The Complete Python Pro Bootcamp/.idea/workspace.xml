@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/Printing/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Printing/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/String Manipulation/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/String Manipulation/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/task/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/task.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PyNix-Pro"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="090d744d-e806-4c55-9555-e155c828c125" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:PyNix-Pro/100-Days-Of-Code.git",
+    "accountId": "090d744d-e806-4c55-9555-e155c828c125"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day 1/task/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 1/task/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Calculator Project/art.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Calculator Project/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Calculator Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Docstrings/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Docstrings/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Functions with Outputs/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Functions with Outputs/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Multiple Return Values/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 10/Multiple Return Values/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 11/task/art.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 11/task/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 11/task/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Block Scope/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Block Scope/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Global Constants/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Global Constants/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Global Vars/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Global Vars/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Namespaces and Scope/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Namespaces and Scope/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Number Guessing Project/art.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 12/Number Guessing Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Describe the Problem/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Describe the Problem/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Fix the Errors/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Fix the Errors/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Play Computer/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Play Computer/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Reproduce the Bug/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Reproduce the Bug/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Use Print/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Use Print/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Use a Debugger/maths.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Use a Debugger/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 13/Use a Debugger/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 14/Higher or Lower Project/art.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 14/Higher or Lower Project/game_data.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 14/Higher or Lower Project/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 14/Higher or Lower Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 15/Coffee Machine Project/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 15/Coffee Machine Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 16-100/Where are the rest of the days/__init__.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 16-100/Where are the rest of the days/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Data Types/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Data Types/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Mathematical Operations/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Mathematical Operations/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Number Manipulation/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Number Manipulation/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Tip Calculator Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Tip Calculator Project/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/If Else/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/If Else/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Logical Operators/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Logical Operators/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Modulo/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Modulo/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Multiple Ifs/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Nesting and Elif/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/__init__.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/tests/__init__.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/tests/test_task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Treasure Island Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Banker Roulette/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Banker Roulette/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/IndexError/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/IndexError/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Lists/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Lists/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Random Module/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Random Module/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Rock Paper Scissors/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/For Loops with Range/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/For Loops with Range/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/For Loops/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/For Loops/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/Highest Score/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/Highest Score/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/Password Generator Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 5/Password Generator Project/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 6/Functions/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 6/Functions/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 7/task/__init__.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 7/task/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 7/task/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Caesar Cipher 1/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Caesar Cipher 1/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Caesar Cipher 2/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Caesar Cipher 2/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Caesar Cipher 3/art.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Caesar Cipher 3/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Caesar Cipher 3/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Functions with Inputs/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Functions with Inputs/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 8/Positional vs Keyword Arguments/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/Blind Auction Project/art.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/Blind Auction Project/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/Blind Auction Project/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/Dictionaries/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/Dictionaries/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/solution.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000038" />
+      <entry key="MS500" value="1.0012975477536579" />
+      <entry key="S2" value="1.1975288429889688" />
+      <entry key="S5" value="1.6953172719806946" />
+      <entry key="S10" value="2.2931570171664237" />
+      <entry key="S30" value="3.4267022334612047" />
+      <entry key="S60" value="5.788387038543374" />
+      <entry key="M2" value="18.395669948624732" />
+      <entry key="M5" value="63.80941609890838" />
+      <entry key="M10" value="103.02439419770927" />
+      <entry key="M15" value="121.47898413345214" />
+      <entry key="M30" value="143.55826608834474" />
+      <entry key="H1" value="156.18204210244465" />
+      <entry key="H2" value="162.93472402493364" />
+      <entry key="H4" value="166.42737270856372" />
+      <entry key="D1" value="169.39892859554908" />
+      <entry key="W1" value="169.91399364438328" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.3090864183458118E-228" />
+      <entry key="S2" value="1.7893009104604798E-57" />
+      <entry key="S5" value="3.715446960229547E-23" />
+      <entry key="S10" value="1.0756531942711322E-11" />
+      <entry key="S30" value="6.411858835468138E-4" />
+      <entry key="S60" value="0.07114532489340951" />
+      <entry key="M2" value="0.8140720432490187" />
+      <entry key="M5" value="3.6330163835491347" />
+      <entry key="M10" value="6.017904563741306" />
+      <entry key="M15" value="7.125396778324371" />
+      <entry key="M30" value="8.43969837813576" />
+      <entry key="H1" value="9.186371327812408" />
+      <entry key="H2" value="9.584448393555848" />
+      <entry key="H4" value="9.789992113081638" />
+      <entry key="D1" value="9.964684533509612" />
+      <entry key="W1" value="9.994947185259896" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7219645977612481" />
+      <entry key="MS500" value="0.9376274685544846" />
+      <entry key="S2" value="1.1497947728195483" />
+      <entry key="S5" value="1.6069829079537612" />
+      <entry key="S10" value="2.187489873035625" />
+      <entry key="S30" value="3.3561056379413037" />
+      <entry key="S60" value="5.810805695649164" />
+      <entry key="M2" value="19.170794719443133" />
+      <entry key="M5" value="67.41152742344148" />
+      <entry key="M10" value="109.02087196334564" />
+      <entry key="M15" value="128.5882826660776" />
+      <entry key="M30" value="151.98884831185973" />
+      <entry key="H1" value="165.363553985858" />
+      <entry key="H2" value="172.51666257708385" />
+      <entry key="H4" value="176.21608924335692" />
+      <entry key="D1" value="179.36339760879903" />
+      <entry key="W1" value="179.9089099687051" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3JrMo65gg5XRmNejOj9iBP2susR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.LearningObjectsStorageType": "SQLite",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.task.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="" />
+      <created>1790414916028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790414916028</updated>
+      <workItem from="1790414925406" duration="2377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790417102293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1/task" />
+  </component>
+</project>
