@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/externalDependencies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Printing/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Printing/task-info.yaml" afterDir="false" />
+    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Added the code for 2nd lesson">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/Inputs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Inputs/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1/String Manipulation/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/String Manipulation/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/task/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,61 +152,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000038" />
-      <entry key="MS500" value="1.0012975477536579" />
-      <entry key="S2" value="1.1975288429889688" />
-      <entry key="S5" value="1.6953172719806946" />
-      <entry key="S10" value="2.2931570171664237" />
-      <entry key="S30" value="3.4267022334612047" />
-      <entry key="S60" value="5.788387038543374" />
-      <entry key="M2" value="18.395669948624732" />
-      <entry key="M5" value="63.80941609890838" />
-      <entry key="M10" value="103.02439419770927" />
-      <entry key="M15" value="121.47898413345214" />
-      <entry key="M30" value="143.55826608834474" />
-      <entry key="H1" value="156.18204210244465" />
-      <entry key="H2" value="162.93472402493364" />
-      <entry key="H4" value="166.42737270856372" />
-      <entry key="D1" value="169.39892859554908" />
-      <entry key="W1" value="169.91399364438328" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0003680016869039" />
+      <entry key="S2" value="1.1385040434831157" />
+      <entry key="S5" value="1.4535080296714125" />
+      <entry key="S10" value="1.6734300480906779" />
+      <entry key="S30" value="1.8765247113007795" />
+      <entry key="S60" value="1.9363206847186127" />
+      <entry key="M2" value="1.9927477629382166" />
+      <entry key="M5" value="2.9423669345940184" />
+      <entry key="M10" value="9.585695793510046" />
+      <entry key="M15" value="22.648919689542648" />
+      <entry key="M30" value="65.86362355359421" />
+      <entry key="H1" value="118.22009226840107" />
+      <entry key="H2" value="159.78948678028212" />
+      <entry key="H4" value="186.10905305984397" />
+      <entry key="D1" value="211.50133403728898" />
+      <entry key="W1" value="216.20543830204588" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.3090864183458118E-228" />
-      <entry key="S2" value="1.7893009104604798E-57" />
-      <entry key="S5" value="3.715446960229547E-23" />
-      <entry key="S10" value="1.0756531942711322E-11" />
-      <entry key="S30" value="6.411858835468138E-4" />
-      <entry key="S60" value="0.07114532489340951" />
-      <entry key="M2" value="0.8140720432490187" />
-      <entry key="M5" value="3.6330163835491347" />
-      <entry key="M10" value="6.017904563741306" />
-      <entry key="M15" value="7.125396778324371" />
-      <entry key="M30" value="8.43969837813576" />
-      <entry key="H1" value="9.186371327812408" />
-      <entry key="H2" value="9.584448393555848" />
-      <entry key="H4" value="9.789992113081638" />
-      <entry key="D1" value="9.964684533509612" />
-      <entry key="W1" value="9.994947185259896" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.6849676635157704E-136" />
+      <entry key="S5" value="4.904973080994612E-55" />
+      <entry key="S10" value="7.003551299872523E-28" />
+      <entry key="S30" value="8.88054129374984E-10" />
+      <entry key="S60" value="2.9800237069141332E-5" />
+      <entry key="M2" value="0.0054589772002691305" />
+      <entry key="M5" value="0.12754554767059492" />
+      <entry key="M10" value="0.529599343368048" />
+      <entry key="M15" value="1.1778502447546868" />
+      <entry key="M30" value="3.311157685043237" />
+      <entry key="H1" value="5.943873657481506" />
+      <entry key="H2" value="8.06048800158638" />
+      <entry key="H4" value="9.40950552760837" />
+      <entry key="D1" value="10.716373705536697" />
+      <entry key="W1" value="10.959002709749987" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7219645977612481" />
-      <entry key="MS500" value="0.9376274685544846" />
-      <entry key="S2" value="1.1497947728195483" />
-      <entry key="S5" value="1.6069829079537612" />
-      <entry key="S10" value="2.187489873035625" />
-      <entry key="S30" value="3.3561056379413037" />
-      <entry key="S60" value="5.810805695649164" />
-      <entry key="M2" value="19.170794719443133" />
-      <entry key="M5" value="67.41152742344148" />
-      <entry key="M10" value="109.02087196334564" />
-      <entry key="M15" value="128.5882826660776" />
-      <entry key="M30" value="151.98884831185973" />
-      <entry key="H1" value="165.363553985858" />
-      <entry key="H2" value="172.51666257708385" />
-      <entry key="H4" value="176.21608924335692" />
-      <entry key="D1" value="179.36339760879903" />
-      <entry key="W1" value="179.9089099687051" />
+      <entry key="MS100" value="0.6551967019291817" />
+      <entry key="MS500" value="0.9189899252290568" />
+      <entry key="S2" value="1.0727683903016052" />
+      <entry key="S5" value="1.3794371343273464" />
+      <entry key="S10" value="1.6185630942737474" />
+      <entry key="S30" value="1.852567144088847" />
+      <entry key="S60" value="1.9235235145135277" />
+      <entry key="M2" value="1.9914195492576132" />
+      <entry key="M5" value="3.0656405660960098" />
+      <entry key="M10" value="10.110783155251152" />
+      <entry key="M15" value="23.821675797284023" />
+      <entry key="M30" value="69.16929679451758" />
+      <entry key="H1" value="124.15956656308478" />
+      <entry key="H2" value="167.84713525781098" />
+      <entry key="H4" value="195.51693875574642" />
+      <entry key="D1" value="222.21740583037345" />
+      <entry key="W1" value="227.16439703918851" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -264,14 +253,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790414916028</updated>
-      <workItem from="1790414925406" duration="2377000" />
+      <workItem from="1790414925406" duration="4685000" />
     </task>
+    <task id="LOCAL-00001" summary="Added the code for 2nd lesson">
+      <option name="closed" value="true" />
+      <created>1790417670568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790417670569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the code for 2nd lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the code for 2nd lesson" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790417102293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1/task" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790420122571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1/task" />
   </component>
 </project>
