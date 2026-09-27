@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Added the code for 2nd lesson">
+    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Added the input function along with print function">
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Inputs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Inputs/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/String Manipulation/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/String Manipulation/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,21 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PyNix-Pro"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PyNix-Pro&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="090d744d-e806-4c55-9555-e155c828c125" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:PyNix-Pro/100-Days-Of-Code.git",
-    "accountId": "090d744d-e806-4c55-9555-e155c828c125"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:PyNix-Pro/100-Days-Of-Code.git&quot;,
+    &quot;accountId&quot;: &quot;090d744d-e806-4c55-9555-e155c828c125&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Day 1/task/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 1/task/task.py" root0="FORCE_HIGHLIGHTING" />
@@ -153,66 +153,66 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0003680016869039" />
-      <entry key="S2" value="1.1385040434831157" />
-      <entry key="S5" value="1.4535080296714125" />
-      <entry key="S10" value="1.6734300480906779" />
-      <entry key="S30" value="1.8765247113007795" />
-      <entry key="S60" value="1.9363206847186127" />
-      <entry key="M2" value="1.9927477629382166" />
-      <entry key="M5" value="2.9423669345940184" />
-      <entry key="M10" value="9.585695793510046" />
-      <entry key="M15" value="22.648919689542648" />
-      <entry key="M30" value="65.86362355359421" />
-      <entry key="H1" value="118.22009226840107" />
-      <entry key="H2" value="159.78948678028212" />
-      <entry key="H4" value="186.10905305984397" />
-      <entry key="D1" value="211.50133403728898" />
-      <entry key="W1" value="216.20543830204588" />
+      <entry key="MS500" value="1.000000000000005" />
+      <entry key="S2" value="1.000418343260092" />
+      <entry key="S5" value="1.0781876268585917" />
+      <entry key="S10" value="1.4738159107349627" />
+      <entry key="S30" value="2.6226065839228045" />
+      <entry key="S60" value="3.296782889243493" />
+      <entry key="M2" value="3.8815815957243824" />
+      <entry key="M5" value="4.44800233687265" />
+      <entry key="M10" value="4.703101319845517" />
+      <entry key="M15" value="4.8518838186146525" />
+      <entry key="M30" value="7.702149111988493" />
+      <entry key="H1" value="29.47057898545538" />
+      <entry key="H2" value="80.45079946832205" />
+      <entry key="H4" value="138.4391904305459" />
+      <entry key="D1" value="220.3035368619954" />
+      <entry key="W1" value="238.77000516384163" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.6849676635157704E-136" />
-      <entry key="S5" value="4.904973080994612E-55" />
-      <entry key="S10" value="7.003551299872523E-28" />
-      <entry key="S30" value="8.88054129374984E-10" />
-      <entry key="S60" value="2.9800237069141332E-5" />
-      <entry key="M2" value="0.0054589772002691305" />
-      <entry key="M5" value="0.12754554767059492" />
-      <entry key="M10" value="0.529599343368048" />
-      <entry key="M15" value="1.1778502447546868" />
-      <entry key="M30" value="3.311157685043237" />
-      <entry key="H1" value="5.943873657481506" />
-      <entry key="H2" value="8.06048800158638" />
-      <entry key="H4" value="9.40950552760837" />
-      <entry key="D1" value="10.716373705536697" />
-      <entry key="W1" value="10.959002709749987" />
+      <entry key="MS100" value="4.008707458985046E-12" />
+      <entry key="MS500" value="0.005255340768570083" />
+      <entry key="S2" value="0.2736563629219874" />
+      <entry key="S5" value="0.7599442886824843" />
+      <entry key="S10" value="1.3464821793777029" />
+      <entry key="S30" value="2.236532285966221" />
+      <entry key="S60" value="2.581964877545528" />
+      <entry key="M2" value="2.7809480559901774" />
+      <entry key="M5" value="2.909836257749321" />
+      <entry key="M10" value="2.954652472931279" />
+      <entry key="M15" value="2.9735081143691935" />
+      <entry key="M30" value="3.137683443444797" />
+      <entry key="H1" value="4.252866989608276" />
+      <entry key="H2" value="6.830851557540953" />
+      <entry key="H4" value="9.760929448048529" />
+      <entry key="D1" value="13.901650143862534" />
+      <entry key="W1" value="14.836462235890185" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.6551967019291817" />
-      <entry key="MS500" value="0.9189899252290568" />
-      <entry key="S2" value="1.0727683903016052" />
-      <entry key="S5" value="1.3794371343273464" />
-      <entry key="S10" value="1.6185630942737474" />
-      <entry key="S30" value="1.852567144088847" />
-      <entry key="S60" value="1.9235235145135277" />
-      <entry key="M2" value="1.9914195492576132" />
-      <entry key="M5" value="3.0656405660960098" />
-      <entry key="M10" value="10.110783155251152" />
-      <entry key="M15" value="23.821675797284023" />
-      <entry key="M30" value="69.16929679451758" />
-      <entry key="H1" value="124.15956656308478" />
-      <entry key="H2" value="167.84713525781098" />
-      <entry key="H4" value="195.51693875574642" />
-      <entry key="D1" value="222.21740583037345" />
-      <entry key="W1" value="227.16439703918851" />
+      <entry key="MS100" value="0.004334255750265683" />
+      <entry key="MS500" value="0.33772972065863666" />
+      <entry key="S2" value="0.9392468733935109" />
+      <entry key="S5" value="1.6024537977104027" />
+      <entry key="S10" value="2.6201956055695863" />
+      <entry key="S30" value="4.737508449127748" />
+      <entry key="S60" value="5.8044777135444" />
+      <entry key="M2" value="6.62026973054717" />
+      <entry key="M5" value="7.339123415382403" />
+      <entry key="M10" value="7.648007548588163" />
+      <entry key="M15" value="7.818782265797657" />
+      <entry key="M30" value="10.836193166069794" />
+      <entry key="H1" value="33.720717547082614" />
+      <entry key="H2" value="87.2793304419206" />
+      <entry key="H4" value="148.19843957258718" />
+      <entry key="D1" value="234.2047877023786" />
+      <entry key="W1" value="253.60640655941796" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3JrMo65gg5XRmNejOj9iBP2susR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -224,6 +224,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -235,7 +236,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -253,7 +254,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790414916028</updated>
-      <workItem from="1790414925406" duration="4685000" />
+      <workItem from="1790414925406" duration="6756000" />
+      <workItem from="1790489848792" duration="7958000" />
     </task>
     <task id="LOCAL-00001" summary="Added the code for 2nd lesson">
       <option name="closed" value="true" />
@@ -263,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790417670569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added the input function along with print function">
+      <option name="closed" value="true" />
+      <created>1790420557315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790420557315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,9 +281,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the code for 2nd lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the code for 2nd lesson" />
+    <MESSAGE value="Added the input function along with print function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the input function along with print function" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790420122571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1/task" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790511823377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1/task" />
   </component>
 </project>
