@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Added the input function along with print function">
-      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Added variables and length function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/Variable Naming/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Variable Naming/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,60 +153,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000000000005" />
-      <entry key="S2" value="1.000418343260092" />
-      <entry key="S5" value="1.0781876268585917" />
-      <entry key="S10" value="1.4738159107349627" />
-      <entry key="S30" value="2.6226065839228045" />
-      <entry key="S60" value="3.296782889243493" />
-      <entry key="M2" value="3.8815815957243824" />
-      <entry key="M5" value="4.44800233687265" />
-      <entry key="M10" value="4.703101319845517" />
-      <entry key="M15" value="4.8518838186146525" />
-      <entry key="M30" value="7.702149111988493" />
-      <entry key="H1" value="29.47057898545538" />
-      <entry key="H2" value="80.45079946832205" />
-      <entry key="H4" value="138.4391904305459" />
-      <entry key="D1" value="220.3035368619954" />
-      <entry key="W1" value="238.77000516384163" />
+      <entry key="MS500" value="1.0003685122008321" />
+      <entry key="S2" value="1.1416671638102667" />
+      <entry key="S5" value="1.7366443958585127" />
+      <entry key="S10" value="3.3244679361747753" />
+      <entry key="S30" value="10.993221992536958" />
+      <entry key="S60" value="20.548901490080862" />
+      <entry key="M2" value="31.33723002308108" />
+      <entry key="M5" value="42.644592740349665" />
+      <entry key="M10" value="48.44187868515381" />
+      <entry key="M15" value="50.900100507612066" />
+      <entry key="M30" value="55.71556553861658" />
+      <entry key="H1" value="76.14663445995288" />
+      <entry key="H2" value="125.75818263888301" />
+      <entry key="H4" value="184.74390341842386" />
+      <entry key="D1" value="270.79204565849125" />
+      <entry key="W1" value="290.53579754014476" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.008707458985046E-12" />
-      <entry key="MS500" value="0.005255340768570083" />
-      <entry key="S2" value="0.2736563629219874" />
-      <entry key="S5" value="0.7599442886824843" />
-      <entry key="S10" value="1.3464821793777029" />
-      <entry key="S30" value="2.236532285966221" />
-      <entry key="S60" value="2.581964877545528" />
-      <entry key="M2" value="2.7809480559901774" />
-      <entry key="M5" value="2.909836257749321" />
-      <entry key="M10" value="2.954652472931279" />
-      <entry key="M15" value="2.9735081143691935" />
-      <entry key="M30" value="3.137683443444797" />
-      <entry key="H1" value="4.252866989608276" />
-      <entry key="H2" value="6.830851557540953" />
-      <entry key="H4" value="9.760929448048529" />
-      <entry key="D1" value="13.901650143862534" />
-      <entry key="W1" value="14.836462235890185" />
+      <entry key="MS100" value="3.5223425315891103E-76" />
+      <entry key="MS500" value="8.116453733370212E-16" />
+      <entry key="S2" value="1.6880400309734605E-4" />
+      <entry key="S5" value="0.03173228926504401" />
+      <entry key="S10" value="0.20466458976107174" />
+      <entry key="S30" value="0.9654410061008708" />
+      <entry key="S60" value="1.6192005332978052" />
+      <entry key="M2" value="2.1952701978534326" />
+      <entry key="M5" value="3.049729259981268" />
+      <entry key="M10" value="3.9313632287243467" />
+      <entry key="M15" value="4.431273405153368" />
+      <entry key="M30" value="5.207947993847943" />
+      <entry key="H1" value="6.587416733079105" />
+      <entry key="H2" value="9.286135178849849" />
+      <entry key="H4" value="12.367752256318504" />
+      <entry key="D1" value="16.807378338669583" />
+      <entry key="W1" value="17.82206197433548" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004334255750265683" />
-      <entry key="MS500" value="0.33772972065863666" />
-      <entry key="S2" value="0.9392468733935109" />
-      <entry key="S5" value="1.6024537977104027" />
-      <entry key="S10" value="2.6201956055695863" />
-      <entry key="S30" value="4.737508449127748" />
-      <entry key="S60" value="5.8044777135444" />
-      <entry key="M2" value="6.62026973054717" />
-      <entry key="M5" value="7.339123415382403" />
-      <entry key="M10" value="7.648007548588163" />
-      <entry key="M15" value="7.818782265797657" />
-      <entry key="M30" value="10.836193166069794" />
-      <entry key="H1" value="33.720717547082614" />
-      <entry key="H2" value="87.2793304419206" />
-      <entry key="H4" value="148.19843957258718" />
-      <entry key="D1" value="234.2047877023786" />
-      <entry key="W1" value="253.60640655941796" />
+      <entry key="MS100" value="1.702567952087896E-4" />
+      <entry key="MS500" value="0.17632157912212315" />
+      <entry key="S2" value="0.7276942232555224" />
+      <entry key="S5" value="1.5058740827649302" />
+      <entry key="S10" value="3.341512582602661" />
+      <entry key="S30" value="11.82312246935163" />
+      <entry key="S60" value="22.057592020336994" />
+      <entry key="M2" value="33.454669345227444" />
+      <entry key="M5" value="45.652283087105424" />
+      <entry key="M10" value="52.34811617756528" />
+      <entry key="M15" value="55.31320342283953" />
+      <entry key="M30" value="60.91330705453747" />
+      <entry key="H1" value="82.72788741452695" />
+      <entry key="H2" value="135.0402418123204" />
+      <entry key="H4" value="197.10907060094158" />
+      <entry key="D1" value="287.59886502212" />
+      <entry key="W1" value="308.35777552870223" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -218,28 +218,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.LearningObjectsStorageType": "SQLite",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.task.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.LearningObjectsStorageType&quot;: &quot;SQLite&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -255,7 +255,10 @@
       <option name="presentableId" value="Default" />
       <updated>1790414916028</updated>
       <workItem from="1790414925406" duration="6756000" />
-      <workItem from="1790489848792" duration="7958000" />
+      <workItem from="1790489848792" duration="8070000" />
+      <workItem from="1790617008755" duration="1000" />
+      <workItem from="1790617039963" duration="4000" />
+      <workItem from="1790696497674" duration="2332000" />
     </task>
     <task id="LOCAL-00001" summary="Added the code for 2nd lesson">
       <option name="closed" value="true" />
@@ -273,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790420557315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added variables and length function">
+      <option name="closed" value="true" />
+      <created>1790512451090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790512451090</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +293,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the code for 2nd lesson" />
     <MESSAGE value="Added the input function along with print function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the input function along with print function" />
+    <MESSAGE value="Added variables and length function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added variables and length function" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790511823377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1/task" />
