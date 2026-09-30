@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Added variables and length function">
+    <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Completed Day 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Variable Naming/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Variable Naming/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Data Types/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Data Types/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Data Types/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Data Types/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,61 +152,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0003685122008321" />
-      <entry key="S2" value="1.1416671638102667" />
-      <entry key="S5" value="1.7366443958585127" />
-      <entry key="S10" value="3.3244679361747753" />
-      <entry key="S30" value="10.993221992536958" />
-      <entry key="S60" value="20.548901490080862" />
-      <entry key="M2" value="31.33723002308108" />
-      <entry key="M5" value="42.644592740349665" />
-      <entry key="M10" value="48.44187868515381" />
-      <entry key="M15" value="50.900100507612066" />
-      <entry key="M30" value="55.71556553861658" />
-      <entry key="H1" value="76.14663445995288" />
-      <entry key="H2" value="125.75818263888301" />
-      <entry key="H4" value="184.74390341842386" />
-      <entry key="D1" value="270.79204565849125" />
-      <entry key="W1" value="290.53579754014476" />
+      <entry key="MS100" value="1.0000000000000002" />
+      <entry key="MS500" value="1.00135332810126" />
+      <entry key="S2" value="1.432180848155613" />
+      <entry key="S5" value="2.3808551935973594" />
+      <entry key="S10" value="3.0401307093508" />
+      <entry key="S30" value="4.141845325237615" />
+      <entry key="S60" value="5.771685050008602" />
+      <entry key="M2" value="9.19858570297818" />
+      <entry key="M5" value="17.59617495944023" />
+      <entry key="M10" value="29.556448086267626" />
+      <entry key="M15" value="39.9554500155779" />
+      <entry key="M30" value="60.88627271170306" />
+      <entry key="H1" value="90.90983505362877" />
+      <entry key="H2" value="145.16727371613874" />
+      <entry key="H4" value="210.47964949038237" />
+      <entry key="D1" value="310.261261135877" />
+      <entry key="W1" value="333.8390551156262" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.5223425315891103E-76" />
-      <entry key="MS500" value="8.116453733370212E-16" />
-      <entry key="S2" value="1.6880400309734605E-4" />
-      <entry key="S5" value="0.03173228926504401" />
-      <entry key="S10" value="0.20466458976107174" />
-      <entry key="S30" value="0.9654410061008708" />
-      <entry key="S60" value="1.6192005332978052" />
-      <entry key="M2" value="2.1952701978534326" />
-      <entry key="M5" value="3.049729259981268" />
-      <entry key="M10" value="3.9313632287243467" />
-      <entry key="M15" value="4.431273405153368" />
-      <entry key="M30" value="5.207947993847943" />
-      <entry key="H1" value="6.587416733079105" />
-      <entry key="H2" value="9.286135178849849" />
-      <entry key="H4" value="12.367752256318504" />
-      <entry key="D1" value="16.807378338669583" />
-      <entry key="W1" value="17.82206197433548" />
+      <entry key="MS100" value="1.4348949752984092E-265" />
+      <entry key="MS500" value="1.0748900010264585E-53" />
+      <entry key="S2" value="5.725863699912523E-14" />
+      <entry key="S5" value="5.048198256663434E-6" />
+      <entry key="S10" value="0.00224687095798781" />
+      <entry key="S30" value="0.13629552600063138" />
+      <entry key="S60" value="0.48018747206022583" />
+      <entry key="M2" value="1.2343603931950875" />
+      <entry key="M5" value="3.086370032649458" />
+      <entry key="M10" value="5.110031994304692" />
+      <entry key="M15" value="6.517814226503341" />
+      <entry key="M30" value="9.050439377069702" />
+      <entry key="H1" value="11.761326595071253" />
+      <entry key="H2" value="15.28923097925547" />
+      <entry key="H4" value="19.045019089103768" />
+      <entry key="D1" value="24.50831575307091" />
+      <entry key="W1" value="25.776746745844715" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.702567952087896E-4" />
-      <entry key="MS500" value="0.17632157912212315" />
-      <entry key="S2" value="0.7276942232555224" />
-      <entry key="S5" value="1.5058740827649302" />
-      <entry key="S10" value="3.341512582602661" />
-      <entry key="S30" value="11.82312246935163" />
-      <entry key="S60" value="22.057592020336994" />
-      <entry key="M2" value="33.454669345227444" />
-      <entry key="M5" value="45.652283087105424" />
-      <entry key="M10" value="52.34811617756528" />
-      <entry key="M15" value="55.31320342283953" />
-      <entry key="M30" value="60.91330705453747" />
-      <entry key="H1" value="82.72788741452695" />
-      <entry key="H2" value="135.0402418123204" />
-      <entry key="H4" value="197.10907060094158" />
-      <entry key="D1" value="287.59886502212" />
-      <entry key="W1" value="308.35777552870223" />
+      <entry key="MS100" value="0.0016310310926335458" />
+      <entry key="MS500" value="0.2778799459241612" />
+      <entry key="S2" value="1.113739626245781" />
+      <entry key="S5" value="2.202663451753569" />
+      <entry key="S10" value="2.937068616344745" />
+      <entry key="S30" value="4.233060373425725" />
+      <entry key="S60" value="6.220968253505124" />
+      <entry key="M2" value="10.407850906533412" />
+      <entry key="M5" value="20.661836967561566" />
+      <entry key="M10" value="34.648739638249104" />
+      <entry key="M15" value="46.45736144717257" />
+      <entry key="M30" value="69.92475822269533" />
+      <entry key="H1" value="102.66297030765091" />
+      <entry key="H2" value="160.45103603692746" />
+      <entry key="H4" value="229.52123894909036" />
+      <entry key="D1" value="334.7688424108451" />
+      <entry key="W1" value="359.61569162323013" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -258,7 +258,8 @@
       <workItem from="1790489848792" duration="8070000" />
       <workItem from="1790617008755" duration="1000" />
       <workItem from="1790617039963" duration="4000" />
-      <workItem from="1790696497674" duration="2332000" />
+      <workItem from="1790696497674" duration="2851000" />
+      <workItem from="1790772656380" duration="5007000" />
     </task>
     <task id="LOCAL-00001" summary="Added the code for 2nd lesson">
       <option name="closed" value="true" />
@@ -284,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790512451090</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed Day 1">
+      <option name="closed" value="true" />
+      <created>1790699664365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790699664367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,9 +303,10 @@
     <MESSAGE value="Added the code for 2nd lesson" />
     <MESSAGE value="Added the input function along with print function" />
     <MESSAGE value="Added variables and length function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added variables and length function" />
+    <MESSAGE value="Completed Day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Day 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790511823377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 1/task" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1790785115028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion" />
   </component>
 </project>
