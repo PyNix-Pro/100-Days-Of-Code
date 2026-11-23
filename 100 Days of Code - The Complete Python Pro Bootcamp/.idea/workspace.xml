@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Done mathematical operations in Day 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +23,6 @@
     &quot;assignee&quot;: &quot;PyNix-Pro&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="090d744d-e806-4c55-9555-e155c828c125" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:PyNix-Pro/100-Days-Of-Code.git&quot;,
@@ -237,20 +231,21 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pynix/Repositories/100-Days-Of-Code/100 Days of Code - The Complete Python Pro Bootcamp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
       </set>
     </attachedChunks>
   </component>
