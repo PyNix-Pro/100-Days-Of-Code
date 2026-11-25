@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3818f1d6-e628-48c9-8955-dee8e546cfe8" name="Changes" comment="Done mathematical operations in Day 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +24,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:PyNix-Pro/100-Days-Of-Code.git&quot;,
-    &quot;accountId&quot;: &quot;090d744d-e806-4c55-9555-e155c828c125&quot;
+    &quot;url&quot;: &quot;https://github.com/PyNix-Pro/100-Days-Of-Code.git&quot;,
+    &quot;accountId&quot;: &quot;d0a55eca-84cb-475f-b3c3-1bcc7a3200c9&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -208,6 +207,9 @@
       <entry key="W1" value="659.5794516127763" />
     </decayedShown>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -238,7 +240,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
