@@ -8,7 +8,7 @@ if size == "S":
     bill = 15
     if pepperoni == "Y":
         bill += 2
-    elif extra_cheese == "Y":
+    if extra_cheese == "Y":
         bill += 1
     else:
         print(f"Neither pepperoni nor cheese was added, your final bill is ${bill}.")
@@ -18,7 +18,7 @@ elif size == "M":
     bill = 20
     if pepperoni == "Y":
         bill += 3
-    elif extra_cheese == "Y":
+    if extra_cheese == "Y":
         bill += 1
     else:
         print(f"Neither pepperoni nor cheese was added, your final bill is ${bill}.")
@@ -27,7 +27,7 @@ elif size == "L":
     bill = 25
     if pepperoni == "Y":
         bill += 3
-    elif extra_cheese == "Y":
+    if extra_cheese == "Y":
         bill +=1
     else:
         print(f"Neither pepperoni nor cheese was added, your final bill is ${bill}.")
